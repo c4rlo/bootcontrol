@@ -1,0 +1,1 @@
+{"shell-version": ["3.2"], "uuid": "Shut_Down_Menu@cteubner", "name": "Shut Down Menu", "description": "Replace Suspend menu with Shut Down... and add Suspend, Hibernate, Reboot Linux, Reboot to Windows to Power Off dialog", "url": "https://github.com/c4rlo/bootcontrol"}

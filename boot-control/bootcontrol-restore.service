@@ -1,0 +1,8 @@
+[Unit]
+Description=Restore grub config
+
+[Service]
+ExecStart=/bin/cp /boot/control/menu.cfg /boot/control/grub.cfg
+
+[Install]
+WantedBy=basic.target
